@@ -79,11 +79,11 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   
  <table>
   <tr>
-    <td><img src="assets/Images/zombie smasher/Screenshot (245).png" width="300" style="padding:10px;">
+    <td><img src="assets/Images/zombie smasher/Screenshot (245).png" width="400" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/zombie smasher/Screenshot (248).png" width="300" style="padding:10px;">
+    <td><img src="assets/Images/zombie smasher/Screenshot (248).png" width="400" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/zombie smasher/Screenshot (249).png" width="300" style="padding:10px;">
+    <td><img src="assets/Images/zombie smasher/Screenshot (249).png" width="400" style="padding:10px;">
     </td>
   </tr>
 </table>
@@ -102,9 +102,9 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   
   <table>
   <tr>
-    <td><img src="assets/Images/car controller/CarScene1.png" width="300" style="padding:10px;">
+    <td><img src="assets/Images/car controller/CarScene1.png" width="400" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/car controller/CarScene2.png" width="300"  style="padding:10px;">
+    <td><img src="assets/Images/car controller/CarScene2.png" width="400"  style="padding:10px;">
     </td>
   </tr>
 </table>
@@ -134,6 +134,8 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   ✅ Lighting, Geometry Nodes, Volumetrics to enhance the visual appeal
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/3D-fantasy-sword)  
 - **Demo**:
+  
+https://github.com/user-attachments/assets/cd92ef7a-ff85-4513-953f-ce28c0ddfd4d
 
 ---
 
@@ -143,8 +145,9 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   ✅ Animation from 0 to 9 Numbers  
   ✅ Material and Camera Animation 
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/3D-digital-numbers-animation)  
-- **Demo**:  
-  <img src="./images/character_sculpt.png" width="400">
+- **Demo**:
+  
+https://github.com/user-attachments/assets/751d7809-13a1-4b8e-9f67-f6380265e138
 
 ---
 
@@ -152,18 +155,19 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
 - **Description**: Adding rigid-body Physics feature in Blender and destroying Piller models.  
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/Blender-rigid-body-simulation)  
 - **Demo**:
-
-  <p align="center">
-  <video width="400" controls loop>
-    <source src="assets/Videos/PillarRB.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+  
+https://github.com/user-attachments/assets/b162e9e2-7396-4d40-a290-ba45de3ec32c 
 
 ---
 
 ## 📢 Contact Me
 📧 Email: pushkargupta2901@gmail.com    
 💼 LinkedIn: [Profile](https://linkedin.com/in/pushakrg01)  
+
+
+
+
+
+
 
 
