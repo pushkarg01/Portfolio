@@ -1,2 +1,4 @@
 # pushkarg01-portfolio
-My Unity 3D and Blender Portfolio
+
+Welcome to my portfolio repository! You will find my **Blender** and **Unity** projects with descriptions, features, and links here.  
+
