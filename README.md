@@ -1,6 +1,6 @@
 # pushkarg01-portfolio
 
-Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity 3D**, and **Blender** projects with descriptions, features, and links.  
+Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Blender** projects with descriptions, features, and links.  
 
 📜 [Download My Resume](./Resume/Updated_Resume.pdf)  
 
@@ -37,8 +37,18 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
   ✅ Optimized for Android
 - **Tech Used**: Unity, C#, 2D Physics
 - **GitHub Repo**: [🔗 2D Plane Shooter](https://github.com/pushkarg01/Plane-Shooter)  
-- **Screenshots**:  
-  <img src="./images/2d_platformer.png" width="400">
+- **Screenshots**:
+  
+<table>
+  <tr>
+    <td><img src="assets/Images/plane shooter/Screenshot (239).png" width="200" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/plane shooter/Screenshot (243).png" width="200" style="padding:10px;"> 
+    </td>
+    <td><img src="assets/Images/plane shooter/Screenshot (244).png" width="200" style="padding:10px;"> 
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,7 +61,7 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
 - **Tech Used**: Unity, C#  
 - **GitHub Repo**: [🔗 Pacman Clone](https://github.com/pushkarg01/2D-pacman-clone)  
 - **Screenshots**:  
-  <img src="./images/2d_puzzle.png" width="400">
+  <img src="./images/2d_puzzle.png" width="300">
 
 ---
 
@@ -65,8 +75,18 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
   ✅ WebGL Build 
 - **Tech Used**: Unity, C#, WebGL 
 - **GitHub Repo**: [🔗 3D Endless Zombie Smasher](https://github.com/pushkarg01/zombie-smasher-unity-project)  
-- **Screenshots**:  
-  <img src="./images/fps_shooter.png" width="400">
+- **Screenshots**:
+  
+ <table>
+  <tr>
+    <td><img src="assets/Images/zombie smasher/Screenshot (245).png" width="300" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/zombie smasher/Screenshot (248).png" width="300" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/zombie smasher/Screenshot (249).png" width="300" style="padding:10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,8 +98,16 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
   ✅ Terrain and Road Network
 - **Tech Used**: Unity, C#, Terrain Tool 
 - **GitHub Repo**: [🔗 Basic Car Controller](https://github.com/pushkarg01/Basic-Car-Controller)  
-- **Screenshots**:  
-  <img src="./images/fps_shooter.png" width="400">
+- **Screenshots**:
+  
+  <table>
+  <tr>
+    <td><img src="assets/Images/car controller/CarScene1.png" width="300" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/car controller/CarScene2.png" width="300"  style="padding:10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,8 +133,7 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
   ✅ Realistic cave and environment  
   ✅ Lighting, Geometry Nodes, Volumetrics to enhance the visual appeal
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/3D-fantasy-sword)  
-- **Screenshots**:  
-  <img src="./images/3d_house.png" width="400">
+- **Demo**:
 
 ---
 
@@ -116,7 +143,7 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
   ✅ Animation from 0 to 9 Numbers  
   ✅ Material and Camera Animation 
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/3D-digital-numbers-animation)  
-- **Screenshots**:  
+- **Demo**:  
   <img src="./images/character_sculpt.png" width="400">
 
 ---
@@ -124,8 +151,14 @@ Welcome to my portfolio repository! Here, you will find my **Unity 2D**, **Unity
 #### Rigid Body Simulation <a id="rigid-body-simulation"></a>
 - **Description**: Adding rigid-body Physics feature in Blender and destroying Piller models.  
 - **Blender File**: [🔗 Download Model](https://github.com/pushkarg01/Blender-rigid-body-simulation)  
-- **Screenshots**:  
-  <img src="./images/character_sculpt.png" width="400">  
+- **Demo**:
+
+  <p align="center">
+  <video width="400" controls loop>
+    <source src="assets/Videos/PillarRB.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ---
 
