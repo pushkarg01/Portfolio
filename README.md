@@ -1,21 +1,28 @@
-# pushkarg01-portfolio
+# Portfolio Repository
 
-Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Blender** projects with descriptions, features, and links.  
+This repo contains my Unity 3D and Blender projects with descriptions, features, source code, and playable demos.
 
-📜 [Download My Resume](./Resume/Updated_Resume.pdf)  
+<div style="display: flex; justify-content: space-between;">
+  
+   <span>📜 [Download My Resume](assets/Resume.pdf)</span>  
+  
+   <span>🎥 [Watch My Projects Demo Video](https://drive.google.com/uc?id=1E8ut_9avsqlFe8AuCHg23uqmfM0CbvoJ)</span>
+   
+</div>
 
 ---
 
 ## 🎮 Projects
 
 ### 🔗 Quick Links
+
 #### 🕹 Unity 2D  
 - [2D Plane Shooter](#2d-plane-shooter)  
-- [Pacman Clone](#pac-man-game)  
-
+- [Pacman Clone](#pac-man-game)
+  
 #### 🎮 Unity 3D  
 - [3D Endless Zombie Smasher](#3d-endless-zombie-smasher)
-- [Basic Car Controller](car-controller) 
+- [Basic Car Controller](#car-controller) 
 - [Multiplayer Tic-Tac-Toe](#tic-tac-toe)  
 
 #### 🎨 Blender  
