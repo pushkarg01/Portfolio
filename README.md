@@ -1,21 +1,28 @@
-# pushkarg01-portfolio
+# Portfolio Repository
 
-Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Blender** projects with descriptions, features, and links.  
+This repo contains my Unity 3D and Blender projects with descriptions, features, source code, and playable demos.
 
-📜 [Download My Resume](./Resume/Updated_Resume.pdf)  
+<div style="display: flex; justify-content: space-between;">
+  
+   <span>📜 [Download My Resume](assets/Resume.pdf)</span>  
+  
+   <span>🎥 [Watch My Projects Demo Video](https://drive.google.com/uc?id=1E8ut_9avsqlFe8AuCHg23uqmfM0CbvoJ)</span>
+   
+</div>
 
 ---
 
 ## 🎮 Projects
 
 ### 🔗 Quick Links
+
 #### 🕹 Unity 2D  
 - [2D Plane Shooter](#2d-plane-shooter)  
-- [Pacman Clone](#pac-man-game)  
-
+- [Pacman Clone](#pac-man-game)
+  
 #### 🎮 Unity 3D  
 - [3D Endless Zombie Smasher](#3d-endless-zombie-smasher)
-- [Basic Car Controller](car-controller) 
+- [Basic Car Controller](#car-controller) 
 - [Multiplayer Tic-Tac-Toe](#tic-tac-toe)  
 
 #### 🎨 Blender  
@@ -38,7 +45,6 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
 - **Tech Used**: Unity, C#, 2D Physics
 - **GitHub Repo**: [🔗 2D Plane Shooter](https://github.com/pushkarg01/Plane-Shooter)  
 - **Screenshots**:
-  
 <table>
   <tr>
     <td><img src="assets/Images/plane shooter/Screenshot (239).png" width="200" style="padding:10px;">
@@ -60,8 +66,17 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   ✅ Smart Ghost AI   
 - **Tech Used**: Unity, C#  
 - **GitHub Repo**: [🔗 Pacman Clone](https://github.com/pushkarg01/2D-pacman-clone)  
-- **Screenshots**:  
-  <img src="./images/2d_puzzle.png" width="300">
+- **Screenshots**:
+<table>
+  <tr>
+    <td><img src="assets/Images/pacman/Screenshot (256).png" width="400" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/pacman/Screenshot (257).png" width="400" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/pacman/Screenshot (258).png" width="400" style="padding:10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,8 +91,7 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
 - **Tech Used**: Unity, C#, WebGL 
 - **GitHub Repo**: [🔗 3D Endless Zombie Smasher](https://github.com/pushkarg01/zombie-smasher-unity-project)  
 - **Screenshots**:
-  
- <table>
+<table>
   <tr>
     <td><img src="assets/Images/zombie smasher/Screenshot (245).png" width="400" style="padding:10px;">
     </td>
@@ -98,13 +112,12 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   ✅ Terrain and Road Network
 - **Tech Used**: Unity, C#, Terrain Tool 
 - **GitHub Repo**: [🔗 Basic Car Controller](https://github.com/pushkarg01/Basic-Car-Controller)  
-- **Screenshots**:
-  
-  <table>
+- **Screenshots**: 
+<table>
   <tr>
-    <td><img src="assets/Images/car controller/CarScene1.png" width="400" style="padding:10px;">
+    <td><img src="assets/Images/car controller/CarScene1.png" width="300" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/car controller/CarScene2.png" width="400"  style="padding:10px;">
+    <td><img src="assets/Images/car controller/CarScene2.png" width="300"  style="padding:10px;">
     </td>
   </tr>
 </table>
@@ -119,8 +132,15 @@ Welcome to my portfolio repository! Here, you will find my **Unity 3D** and **Bl
   ✅ Smooth Synchronization  
 - **Tech Used**: Unity, C#, NetCode for GameObjects 
 - **GitHub Repo**: [🔗 Multiplayer Tic-Tac-Toe](https://github.com/pushkarg01/tic-tac-toe-multiplayer)  
-- **Screenshots**:  
-  <img src="./images/racing_game.png" width="400">
+- **Screenshots**:
+<table>
+  <tr>
+    <td><img src="assets/Images/tic tac toe/Screenshot (259).png" width="300" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/tic tac toe/Screenshot (260).png" width="300" style="padding:10px;">
+    </td>
+  </tr>
+</table>
 
 ---
 
