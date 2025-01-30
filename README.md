@@ -15,10 +15,6 @@ This repo contains my Unity 3D and Blender projects with descriptions, features,
 ## 🎮 Projects
 
 ### 🔗 Quick Links
-
-#### 🕹 Unity 2D  
-- [2D Plane Shooter](#2d-plane-shooter)  
-- [Pacman Clone](#pac-man-game)
   
 #### 🎮 Unity 3D  
 - [3D Endless Zombie Smasher](#3d-endless-zombie-smasher)
@@ -28,57 +24,15 @@ This repo contains my Unity 3D and Blender projects with descriptions, features,
 #### 🎨 Blender  
 - [3D Fantasy Sword](#3d-fantasy-sword-model)    
 - [Digital Numbers Animation](#digital-numbers)
-- [Rigid Body Simulation](#rigid-body-simulation)  
+- [Rigid Body Simulation](#rigid-body-simulation)
+
+#### 🕹 2D Games Project  
+- [Pacman Clone](#pac-man-game)
+- [2D Plane Shooter](#2d-plane-shooter)  
 
 ---
 
 ## 📌 **Project Details**
-
-### 🕹 Unity 2D
-
-#### 2D Plane Shooter <a id="2d-plane-shooter"></a>
-- **Description**: A 2D plane shooter game developed for Android using Unity. The game offers exciting gameplay, where players control planes, shoot enemies, and dodge incoming attacks. 
-- **Features**:  
-  ✅ Smooth player controls  
-  ✅ Challenging enemies  
-  ✅ Optimized for Android
-- **Tech Used**: Unity, C#, 2D Physics
-- **GitHub Repo**: [🔗 2D Plane Shooter](https://github.com/pushkarg01/Plane-Shooter)  
-- **Screenshots**:
-<table>
-  <tr>
-    <td><img src="assets/Images/plane shooter/Screenshot (239).png" width="200" style="padding:10px;">
-    </td>
-    <td><img src="assets/Images/plane shooter/Screenshot (243).png" width="200" style="padding:10px;"> 
-    </td>
-    <td><img src="assets/Images/plane shooter/Screenshot (244).png" width="200" style="padding:10px;"> 
-    </td>
-  </tr>
-</table>
-
----
-
-#### Pacman Clone <a id="pac-man-game"></a>
-- **Description**: A classic Pac-Man remake built in Unity using the Tilemap system for efficient level design. The game features smooth player movement, AI-controlled ghosts, collectible pellets, and an increasing difficulty system.  
-- **Features**:  
-  ✅ Tilemap-Based Level Design  
-  ✅ Classic Pac-Man Mechanics    
-  ✅ Smart Ghost AI   
-- **Tech Used**: Unity, C#  
-- **GitHub Repo**: [🔗 Pacman Clone](https://github.com/pushkarg01/2D-pacman-clone)  
-- **Screenshots**:
-<table>
-  <tr>
-    <td><img src="assets/Images/pacman/Screenshot (256).png" width="400" style="padding:10px;">
-    </td>
-    <td><img src="assets/Images/pacman/Screenshot (257).png" width="400" style="padding:10px;">
-    </td>
-    <td><img src="assets/Images/pacman/Screenshot (258).png" width="400" style="padding:10px;">
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🎮 Unity 3D
 
@@ -177,6 +131,52 @@ https://github.com/user-attachments/assets/751d7809-13a1-4b8e-9f67-f6380265e138
 - **Demo**:
   
 https://github.com/user-attachments/assets/b162e9e2-7396-4d40-a290-ba45de3ec32c 
+
+---
+
+### 🕹 2D Games Project  
+
+#### Pacman Clone <a id="pac-man-game"></a>
+- **Description**: A classic Pac-Man remake built in Unity using the Tilemap system for efficient level design. The game features smooth player movement, AI-controlled ghosts, collectible pellets, and an increasing difficulty system.  
+- **Features**:  
+  ✅ Tilemap-Based Level Design  
+  ✅ Classic Pac-Man Mechanics    
+  ✅ Smart Ghost AI   
+- **Tech Used**: Unity, C#  
+- **GitHub Repo**: [🔗 Pacman Clone](https://github.com/pushkarg01/2D-pacman-clone)  
+- **Screenshots**:
+<table>
+  <tr>
+    <td><img src="assets/Images/pacman/Screenshot (256).png" width="400" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/pacman/Screenshot (257).png" width="400" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/pacman/Screenshot (258).png" width="400" style="padding:10px;">
+    </td>
+  </tr>
+</table>
+
+---
+
+#### 2D Plane Shooter <a id="2d-plane-shooter"></a>
+- **Description**: A 2D plane shooter game developed for Android using Unity. The game offers exciting gameplay, where players control planes, shoot enemies, and dodge incoming attacks. 
+- **Features**:  
+  ✅ Smooth player controls  
+  ✅ Challenging enemies  
+  ✅ Optimized for Android
+- **Tech Used**: Unity, C#, 2D Physics
+- **GitHub Repo**: [🔗 2D Plane Shooter](https://github.com/pushkarg01/Plane-Shooter)  
+- **Screenshots**:
+<table>
+  <tr>
+    <td><img src="assets/Images/plane shooter/Screenshot (239).png" width="200" style="padding:10px;">
+    </td>
+    <td><img src="assets/Images/plane shooter/Screenshot (243).png" width="200" style="padding:10px;"> 
+    </td>
+    <td><img src="assets/Images/plane shooter/Screenshot (244).png" width="200" style="padding:10px;"> 
+    </td>
+  </tr>
+</table>
 
 ---
 
