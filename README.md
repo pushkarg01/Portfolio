@@ -26,7 +26,7 @@ This repo contains my Unity 3D and Blender projects with descriptions, features,
 - [Digital Numbers Animation](#digital-numbers)
 - [Rigid Body Simulation](#rigid-body-simulation)
 
-#### 🕹 2D Games Project  
+#### 🕹 2D Projects
 - [Pacman Clone](#pac-man-game)
 - [2D Plane Shooter](#2d-plane-shooter)  
 
@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/b162e9e2-7396-4d40-a290-ba45de3ec32c
 
 ---
 
-### 🕹 2D Games Project  
+### 🕹 2D Projects
 
 #### Pacman Clone <a id="pac-man-game"></a>
 - **Description**: A classic Pac-Man remake built in Unity using the Tilemap system for efficient level design. The game features smooth player movement, AI-controlled ghosts, collectible pellets, and an increasing difficulty system.  
