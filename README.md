@@ -153,11 +153,11 @@ https://github.com/user-attachments/assets/b162e9e2-7396-4d40-a290-ba45de3ec32c
 - **Screenshots**:
 <table>
   <tr>
-    <td><img src="assets/Images/pacman/Screenshot (256).png" width="400" style="padding:10px;">
+    <td><img src="assets/Images/pacman/Screenshot (280).png" width="400" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/pacman/Screenshot (257).png" width="400" style="padding:10px;">
+    <td><img src="assets/Images/pacman/Screenshot (277).png" width="400" style="padding:10px;">
     </td>
-    <td><img src="assets/Images/pacman/Screenshot (258).png" width="400" style="padding:10px;">
+    <td><img src="assets/Images/pacman/Screenshot (278).png" width="400" style="padding:10px;">
     </td>
   </tr>
 </table>
