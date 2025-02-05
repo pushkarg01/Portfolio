@@ -41,7 +41,7 @@ This repo contains my **Unity 3D** and **Blender** projects with descriptions, f
   ✅ Dynamic Obstacles, Coin Collection, Power-Ups (Apple)  
   ✅ WebGL Build 
 - **Tech Used**: Unity 3D, C#, WebGL , Animation
-- **GitHub Repo**: 🔗[3D Endless Zombie Smasher](https://github.com/pushkarg01/3D-endless-runner-unity)  
+- **GitHub Repo**: 🔗[3D Endless Runner](https://github.com/pushkarg01/3D-endless-runner-unity)  
 - **Screenshots**:
 <table>
   <tr>
@@ -103,7 +103,7 @@ This repo contains my **Unity 3D** and **Blender** projects with descriptions, f
 ### 🎨 <ins>Blender</ins>
 
 #### 3D Fantasy Sword <a id="3d-fantasy-sword-model"></a>
-- **Description**: This project features a highly detailed 3D sword model created in Blender, set within a realistic cave environment. The sword is designed with intricate details, realistic materials, and polished textures, making it suitable for use in games, animations, or cinematic renders. The cave environment is built with natural rock formations, dynamic lighting, and atmospheric effects.
+- **Description**: This project features a highly detailed 3D sword model created in Blender, set within a realistic cave environment. The sword is designed with intricate details, realistic materials, and polished textures, making it suitable for games, animations, or cinematic renders. The cave environment has natural rock formations, dynamic lighting, and atmospheric effects.
 - **Features**:  
   ✅ Basic Modeling, Editing, and Animation     
   ✅ Realistic Materials & Textures  
