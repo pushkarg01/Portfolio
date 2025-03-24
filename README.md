@@ -2,7 +2,7 @@
 
 This repo contains my **Unity 3D** and **Blender** projects with descriptions, features, source code, and playable demos.
 
-📜 [Download My Resume](assets/Resume/Updated_Unity_Resume.pdf)
+📜 [Download My Resume](Resume/Updated_Unity_Resume.pdf)
 
 ---
 
