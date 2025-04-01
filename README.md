@@ -1,8 +1,10 @@
 # Portfolio Repository
 
-This repo contains my **Unity 3D** and **Blender** projects with descriptions, features, source code, and playable demos.
+This repo contains my **Unity 3D** and **Blender projects**, descriptions, features, source code, and playable demos.
 
-📜 [Download My Resume](Resume/Updated_Unity_Resume.pdf)
+📜 [Download Unity Game Developer Resume](Resume/Pushkar_Unity_Resume.pdf)
+
+📜 [Download Blender 3D Resume](Resume/Pushkar_Blender_Resume.pdf)
 
 ---
 
