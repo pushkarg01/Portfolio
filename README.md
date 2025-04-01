@@ -1,8 +1,10 @@
 # Portfolio Repository
 
-This repo contains my **Unity 3D** and **Blender** projects with descriptions, features, source code, and playable demos.
+This repo contains my **Unity 3D** and **Blender projects**, descriptions, features, source code, and playable demos.
 
-📜 [Download My Resume](Resume/Updated_Unity_Resume.pdf)
+📜 [Download Unity Game Developer Resume](Resume/Pushkar_Unity_Resume.pdf)
+
+📜 [Download Blender 3D Resume](Resume/Pushkar_Blender_Resume.pdf)
 
 ---
 
@@ -230,12 +232,12 @@ https://github.com/user-attachments/assets/b162e9e2-7396-4d40-a290-ba45de3ec32c
 
 ---
 
-## 📢 Contact Me
-📧 Email: pushkargupta2901@gmail.com    
-💼 LinkedIn: [Profile](https://linkedin.com/in/pushakrg01)  
-🎥 Demo: [Watch My Projects Demo Video](https://drive.google.com/uc?id=1E8ut_9avsqlFe8AuCHg23uqmfM0CbvoJ)
-   
-
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/pushkarg01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkarg01" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yashhhg3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yashhhg3/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@yashg_3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@yashg_3d" height="30" width="40" /></a>
+</p>
 
 
 
