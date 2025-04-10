@@ -2,9 +2,9 @@
 
 This repo contains my **Unity 3D** and **Blender projects**, descriptions, features, source code, and playable demos.
 
-📜 [Download Unity Game Developer Resume](Resume/Pushkar_Unity_Resume.pdf)
+📜 [Download Unity Game Developer Resume](Resume/PushkarGupta_UnityDeveloper_Resume.pdf)
 
-📜 [Download Blender 3D Resume](Resume/Pushkar_Blender_Resume.pdf)
+📜 [Download Blender 3D Resume](Resume/PushkarGupta_Blender3D_Resume.pdf)
 
 ---
 
